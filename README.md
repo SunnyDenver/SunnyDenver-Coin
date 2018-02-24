@@ -1,1 +1,1 @@
-Denver Coin to track data on Public People
+Denver Coin to track data on People via Public Files
